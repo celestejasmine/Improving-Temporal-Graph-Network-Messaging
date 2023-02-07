@@ -8,3 +8,4 @@ This research project was presented at multiple conferences, notably the 2022 An
 Note the code will soon be shared to this pubic repository.
 
 ## Research Poster
+![Poster](https://github.com/celestejasmine/Improving-Temporal-Graph-Network-Messaging/blob/main/TGN%20Research%20Poster%20Image.png)
