@@ -5,7 +5,7 @@ Graph Representation Learning can be used to encode a graph structure to better 
 
 This research project was presented at multiple conferences, notably the 2022 Annual Meeting of the Institute for Operations Research and the Management Sciences. I also won 1st place in the Poster Competition of Western University's Inspiring Diversity in STEM Conference in Spring 2022. The winning project had their abstracts published in the Conference Abstract Issue of the Undergraduate Research in Natural and Clinical Science and Technology (URNCST) Journal. It can be viewed at the following link: https://doi.org/10.26685/urncst.386.
 
-Note the code will soon be shared to this pubic repository.
+Note that the code will soon be shared to this pubic repository.
 
 ## Research Poster
 ![Poster](https://github.com/celestejasmine/Improving-Temporal-Graph-Network-Messaging/blob/main/TGN%20Research%20Poster%20Image.png)
